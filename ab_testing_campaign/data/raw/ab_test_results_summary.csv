@@ -1,0 +1,5 @@
+campaign_id,impressions,clicks,conversions,total_revenue,total_cost,CTR,CVR,revenue_per_user,ROI_pct
+Campaign_A,15000,2200,202,20166.73,12000.0,14.67,1.35,1.34,68.06
+Campaign_B,14000,3042,302,34720.16,16800.0,21.73,2.16,2.48,106.67
+Campaign_C,12000,2032,190,18815.55,12000.0,16.93,1.58,1.57,56.8
+Campaign_D,9000,1234,89,8622.87,6750.0,13.71,0.99,0.96,27.75
