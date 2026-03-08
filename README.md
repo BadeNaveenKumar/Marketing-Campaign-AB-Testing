@@ -15,6 +15,19 @@
 This end-to-end portfolio project designs, simulates, and analyses **A/B tests across four e-commerce promotional campaigns** on a dataset of **50,000 customer interactions**. Using Python (SciPy, Pandas, Matplotlib), SQL (window functions, CTEs), and Power BI, the project determines statistically significant winning variants and delivers actionable budget reallocation recommendations.
 
 ---
+## 📸 Dashboard Screenshots
+
+### Page 1 — Overview
+![Overview Dashboard](screenshots/overview_dashboard.png)
+
+### Page 2 — A/B Test Results
+![AB Test Results](screenshots/ab_test_results.png)
+
+### Page 3 — Channel & Device Breakdown
+![Channel Device Breakdown](screenshots/channel_device_breakdown.png)
+```
+
+---
 
 ## 🎯 Key Results
 
